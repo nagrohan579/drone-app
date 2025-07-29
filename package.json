@@ -2,6 +2,7 @@
   "name": "demo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nagrohan579.github.io/drone-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
