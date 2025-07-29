@@ -21,7 +21,6 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          # ✅ FIX 1: Using Node.js v20 as recommended by Vite
           node-version: '20' 
 
       - name: Install Dependencies
